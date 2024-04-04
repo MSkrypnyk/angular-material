@@ -1,0 +1,17 @@
+.container {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu button {
+    color: rgb(225, 152, 165);
+    background-color: rgb(62, 56, 56);
+}
